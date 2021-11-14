@@ -1,6 +1,6 @@
 {
   "name": "alive-postal-code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Improved version of postal-code-js",
   "main": "postal-codes.js",
   "scripts": {

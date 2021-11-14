@@ -64,6 +64,7 @@ formats["VA.json"] = require("./formats/VA.json");
 formats["VC.json"] = require("./formats/VC.json");
 formats["VE.json"] = require("./formats/VE.json");
 formats["VG.json"] = require("./formats/VG.json");
+formats["VN.json"] = require("./formats/VN.json");
 formats["WF.json"] = require("./formats/WF.json");
 formats["WS.json"] = require("./formats/WS.json");
 
