@@ -7,12 +7,3 @@ if ( result === true ) {
 } else {
     console.log(result);
 }
-
-// const pc2 = 'CW39SS';
-// console.log('Postal code "' + pc2 + '" is valid? ' + postalCodes.validate('GB', pc2));
-//
-// const pc3 = 'xxxcw39SS';
-// console.log('Postal code "' + pc3 + '" is valid? ' + postalCodes.validate('GB', pc3));
-//
-// const pc4 = '1234-123';
-// console.log('Postal code "' + pc4 + '" is valid? ' + postalCodes.validate('PT', pc4));
