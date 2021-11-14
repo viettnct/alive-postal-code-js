@@ -1,0 +1,34 @@
+{
+  "name": "alive-postal-code",
+  "version": "0.0.1",
+  "description": "Improved version of postal-code-js",
+  "main": "postal-codes.js",
+  "scripts": {
+    "coverage": "istanbul cover _mocha -- -R spec",
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viettnct/alive-postal-code-js.git"
+  },
+  "keywords": [
+    "postal",
+    "code"
+  ],
+  "author": "viettnct",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viettnct/alive-postal-code-js/issues"
+  },
+  "homepage": "https://github.com/viettnct/alive-postal-code-js#readme",
+  "dependencies": {
+    "detect-node": "^2.0.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.11",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}

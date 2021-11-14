@@ -1,0 +1,18 @@
+{
+    "Description": "VN - NNNNNN, NNNNN",
+    "RedundantCharacters": " -",
+    "ValidationRegex": "^[0-9]{5,6}$",
+    "TestData": {
+        "Valid": [
+            "12345",
+            "45678",
+            "123456",
+            "567856"
+        ],
+        "Invalid": [
+            "1233456",
+            "123s3s",
+            "1s23x3"
+        ]
+    }
+}
